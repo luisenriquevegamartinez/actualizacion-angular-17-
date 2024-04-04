@@ -12,3 +12,4 @@ Si deseas saltarte la configuración inicial de Tailwind + Rutas + Componentes, 
 3. Ejecutar el proyecto ```ng serve -o```
 
 
+url certificado:  https://babel.udemy.com/certificate/UC-0e0d84e3-b60a-47d2-8334-e4890f206563/
